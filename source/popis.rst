@@ -29,7 +29,7 @@ vyhledávání. Vyhledané informace se zobrazí v pravém okně prohlížeče V
    .. figure:: images/vfk_info.png
       :width: 600 
       
-.. tip::Pokud nezadáte žádný parametr vyhledávání, jsou vyhledány všechny 
+.. tip:: Pokud nezadáte žádný parametr vyhledávání, jsou vyhledány všechny 
    nemovitosti či osoby obsažené v databázi.
 
 Prohlížeč VFK funguje obdobně jako webové prohlížeče. Kliknutím na odkaz se 
