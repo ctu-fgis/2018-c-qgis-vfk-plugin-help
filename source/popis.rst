@@ -56,12 +56,13 @@ prohlížeč, který máte nastavený jako výchozí ve vašem operačním syst�
 
    .. figure:: images/vfk_cuzk.png
       :width: 600 
+
     
    .. figure:: images/cuzk.png
       :width: 600 
 
 **Export dat**
-*
+
 Momentálně je možný export dat do formátů LaTex (možno následně vytvořit PDF)
 a HTML (možno následně vytvořit ODF např. překopírováním HTML stránky z webového prohlížeče do `LibreOffice <https://www.libreoffice.org/>`__)
 

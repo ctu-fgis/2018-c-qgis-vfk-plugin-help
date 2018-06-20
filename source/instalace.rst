@@ -14,7 +14,7 @@ http://geo.fsv.cvut.cz/geoforall/qgis-plugins.xml
           nastavení je tedy nutné aktivovat *Zobrazit také
           experimentální zásuvné moduly*.
           
-Poté vybereme *VFK Plugin* a nainstalujeme jej.
+Poté vyberte *VFK Plugin* a kliknìte na tlaèítko ``Instalovat zásuvný modul``.
 
 .. image:: images/install.png
    :width: 600
