@@ -1,5 +1,8 @@
 Autoři
 ******
+* Anna Petrášová (rozená Kratochvílová)
+* Václav Petráš
+* Štěpán Bambula
 
 `Laboratoř GeoForAll
 <http://geomatics.fsv.cvut.cz/research/geoforall/>`__ Fakulta
@@ -10,8 +13,7 @@ Vedoucí projektu: Martin Landa
 Licence
 ^^^^^^^
 
-Zdrojový kód (https://github.com/ctu-geoforall-lab/qgis-ruian-plugin)
-je licencován pod GNU GPL 2 a vyšší.
+Zdrojový kód: https://github.com/ctu-geoforall-lab/qgis-vfk-plugin
 
 Hlášení chyb
 ^^^^^^^^^^^^
