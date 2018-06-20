@@ -43,7 +43,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'QGIS RUIAN Plugin'
+project = u'QGIS VFK Plugin'
 copyright = u'2016-2017, CTU GeoForAll Lab'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -181,7 +181,7 @@ htmlhelp_basename = 'TemplateClassdoc'
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
-  ('index', 'RUIAN.tex', u'RUIAN Documentation',
+  ('index', 'VFK.tex', u'VFK Documentation',
    u'GeoForAll', 'manual'),
 ]
 
@@ -214,6 +214,6 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'TemplateClass', u'RUIAN Documentation',
+    ('index', 'TemplateClass', u'VFK Documentation',
      [u'GeoForAll'], 1)
 ]
